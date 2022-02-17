@@ -1,10 +1,12 @@
 # initializing functions
-source("scripts/head.R")
-
-#setwd("working dir")
+root_path = "/home/christian/innovation-metrics"
+scripts_path = "/scripts"
+project_path = "/project"
+setwd(paste0(root_path, scripts_path)); source("head.R")
+setwd(paste0(root_path, project_path))
 
 # Kartierung einlesen
-project <- extract.slides("project.pptx")
+project <- extract.slides("enahrgie_fin.pptx")
 
 # ID generieren und mit Kartierungen verbinden
 project.id <- assign.id(project)

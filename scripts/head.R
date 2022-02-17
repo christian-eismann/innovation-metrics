@@ -1,5 +1,3 @@
-#setwd("working dir")
-
 #load custom functions
 
 library(ggplot2)

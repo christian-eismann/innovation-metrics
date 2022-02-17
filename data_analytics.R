@@ -491,3 +491,4 @@ plot(g)
 
 ggsave(g, filename = "project_distanzen.png", device = "png", dpi = 600,
        width = 200, height = 120, units = "mm")
+
