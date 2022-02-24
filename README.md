@@ -6,7 +6,7 @@ Dieses repository beinhaltet Scripte, mit denen aus einer Reihe von Konstellatio
 
 Eismann, Christian (2022). Innovationsverläufe im Nachhaltigen Landmanagement (1. Aufl.). Bielefeld: wbv Publikation: https://doi.org/10.2378/6004919w
 
-<center><img src="images/cover.jpg" alt="book cover" width="200"/></center>
+<p align="center"><img src="images/cover.jpg" alt="book cover" width="200"/></p>
 
 Konzeption, Methodik und Umsetzung: Christian Eismann
 
